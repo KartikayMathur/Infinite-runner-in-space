@@ -17,6 +17,13 @@
     <div id="debug">Debug: <button id="debug-btn">OFF</button></div>
   </div>
 
+  <!-- Hidden form for leaderboard entry -->
+  <div id="score-form" style="display: none; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: #222; padding: 20px; border-radius: 10px; color: white;">
+    <h3>Submit Score</h3>
+    <input type="text" id="playerNameInput" placeholder="Enter your name" maxlength="10">
+    <button id="submitScoreBtn">Submit</button>
+  </div>
+
   <script type="module" src="main.js"></script>
 </body>
 </html>
