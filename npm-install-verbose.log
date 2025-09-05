@@ -1,0 +1,86 @@
+npm verbose cli /home/jules/.nvm/versions/node/v22.17.1/bin/node /home/jules/.nvm/versions/node/v22.17.1/bin/npm
+npm info using npm@11.5.1
+npm info using node@v22.17.1
+npm verbose title npm install
+npm verbose argv "install" "--loglevel" "verbose"
+npm verbose logfile logs-max:10 dir:/home/jules/.npm/_logs/2025-09-05T14_36_00_211Z-
+npm verbose logfile /home/jules/.npm/_logs/2025-09-05T14_36_00_211Z-debug-0.log
+npm verbose reify failed optional dependency /app/node_modules/fsevents
+npm verbose reify failed optional dependency /app/node_modules/@rollup/rollup-win32-x64-msvc
+npm verbose reify failed optional dependency /app/node_modules/@rollup/rollup-win32-ia32-msvc
+npm verbose reify failed optional dependency /app/node_modules/@rollup/rollup-win32-arm64-msvc
+npm verbose reify failed optional dependency /app/node_modules/@rollup/rollup-openharmony-arm64
+npm verbose reify failed optional dependency /app/node_modules/@rollup/rollup-linux-s390x-gnu
+npm verbose reify failed optional dependency /app/node_modules/@rollup/rollup-linux-riscv64-musl
+npm verbose reify failed optional dependency /app/node_modules/@rollup/rollup-linux-riscv64-gnu
+npm verbose reify failed optional dependency /app/node_modules/@rollup/rollup-linux-ppc64-gnu
+npm verbose reify failed optional dependency /app/node_modules/@rollup/rollup-linux-loongarch64-gnu
+npm verbose reify failed optional dependency /app/node_modules/@rollup/rollup-linux-arm64-musl
+npm verbose reify failed optional dependency /app/node_modules/@rollup/rollup-linux-arm64-gnu
+npm verbose reify failed optional dependency /app/node_modules/@rollup/rollup-linux-arm-musleabihf
+npm verbose reify failed optional dependency /app/node_modules/@rollup/rollup-linux-arm-gnueabihf
+npm verbose reify failed optional dependency /app/node_modules/@rollup/rollup-freebsd-x64
+npm verbose reify failed optional dependency /app/node_modules/@rollup/rollup-freebsd-arm64
+npm verbose reify failed optional dependency /app/node_modules/@rollup/rollup-darwin-x64
+npm verbose reify failed optional dependency /app/node_modules/@rollup/rollup-darwin-arm64
+npm verbose reify failed optional dependency /app/node_modules/@rollup/rollup-android-arm64
+npm verbose reify failed optional dependency /app/node_modules/@rollup/rollup-android-arm-eabi
+npm verbose reify failed optional dependency /app/node_modules/@esbuild/win32-x64
+npm verbose reify failed optional dependency /app/node_modules/@esbuild/win32-ia32
+npm verbose reify failed optional dependency /app/node_modules/@esbuild/win32-arm64
+npm verbose reify failed optional dependency /app/node_modules/@esbuild/sunos-x64
+npm verbose reify failed optional dependency /app/node_modules/@esbuild/openbsd-x64
+npm verbose reify failed optional dependency /app/node_modules/@esbuild/netbsd-x64
+npm verbose reify failed optional dependency /app/node_modules/@esbuild/linux-s390x
+npm verbose reify failed optional dependency /app/node_modules/@esbuild/linux-riscv64
+npm verbose reify failed optional dependency /app/node_modules/@esbuild/linux-ppc64
+npm verbose reify failed optional dependency /app/node_modules/@esbuild/linux-mips64el
+npm verbose reify failed optional dependency /app/node_modules/@esbuild/linux-loong64
+npm verbose reify failed optional dependency /app/node_modules/@esbuild/linux-ia32
+npm verbose reify failed optional dependency /app/node_modules/@esbuild/linux-arm64
+npm verbose reify failed optional dependency /app/node_modules/@esbuild/linux-arm
+npm verbose reify failed optional dependency /app/node_modules/@esbuild/freebsd-x64
+npm verbose reify failed optional dependency /app/node_modules/@esbuild/freebsd-arm64
+npm verbose reify failed optional dependency /app/node_modules/@esbuild/darwin-x64
+npm verbose reify failed optional dependency /app/node_modules/@esbuild/darwin-arm64
+npm verbose reify failed optional dependency /app/node_modules/@esbuild/android-x64
+npm verbose reify failed optional dependency /app/node_modules/@esbuild/android-arm64
+npm verbose reify failed optional dependency /app/node_modules/@esbuild/android-arm
+npm verbose reify failed optional dependency /app/node_modules/@esbuild/aix-ppc64
+npm http cache vite@https://registry.npmjs.org/vite/-/vite-5.4.19.tgz 1ms (cache hit)
+npm http cache postcss@https://registry.npmjs.org/postcss/-/postcss-8.5.6.tgz 0ms (cache hit)
+npm http cache picocolors@https://registry.npmjs.org/picocolors/-/picocolors-1.1.1.tgz 0ms (cache hit)
+npm http cache phaser@https://registry.npmjs.org/phaser/-/phaser-3.90.0.tgz 0ms (cache hit)
+npm http cache nanoid@https://registry.npmjs.org/nanoid/-/nanoid-3.3.11.tgz 0ms (cache hit)
+npm http cache source-map-js@https://registry.npmjs.org/source-map-js/-/source-map-js-1.2.1.tgz 0ms (cache hit)
+npm http cache eventemitter3@https://registry.npmjs.org/eventemitter3/-/eventemitter3-5.0.1.tgz 0ms (cache hit)
+npm http cache esbuild@https://registry.npmjs.org/esbuild/-/esbuild-0.21.5.tgz 0ms (cache hit)
+npm http cache @types/estree@https://registry.npmjs.org/@types/estree/-/estree-1.0.8.tgz 1ms (cache hit)
+npm http cache rollup@https://registry.npmjs.org/rollup/-/rollup-4.50.0.tgz 0ms (cache hit)
+npm http cache @rollup/rollup-linux-x64-musl@https://registry.npmjs.org/@rollup/rollup-linux-x64-musl/-/rollup-linux-x64-musl-4.50.0.tgz 0ms (cache hit)
+npm http cache @esbuild/linux-x64@https://registry.npmjs.org/@esbuild/linux-x64/-/linux-x64-0.21.5.tgz 0ms (cache hit)
+npm http cache @rollup/rollup-linux-x64-gnu@https://registry.npmjs.org/@rollup/rollup-linux-x64-gnu/-/rollup-linux-x64-gnu-4.50.0.tgz 0ms (cache hit)
+npm http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 3112ms
+npm http fetch GET 200 https://registry.npmjs.org/esbuild 163ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/vite 163ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@rollup/rollup-linux-x64-musl/-/rollup-linux-x64-musl-4.50.0.tgz 3498ms (cache miss)
+npm info run esbuild@0.21.5 postinstall node_modules/esbuild node install.js
+npm info run esbuild@0.21.5 postinstall { code: 0, signal: null }
+
+added 55 packages, and audited 56 packages in 11s
+
+3 packages are looking for funding
+  run `npm fund` for details
+
+2 moderate severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+npm verbose cwd /app
+npm verbose os Linux 6.8.0
+npm verbose node v22.17.1
+npm verbose npm  v11.5.1
+npm verbose exit 0
+npm info ok

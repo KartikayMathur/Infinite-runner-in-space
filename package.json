@@ -1,0 +1,19 @@
+{
+  "name": "space-infinite-runner-proto",
+  "version": "0.1.0",
+  "description": "Phaser3 infinite runner prototype scaffold (Arcade physics) - slice 1",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "phaser": "^3.60.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
